@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cover {
+    background: url("adventure-5062314_1920.jpg");
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
